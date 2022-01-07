@@ -1,0 +1,2 @@
+# POST-GRADUATION-ADMISSION-PREDICTION-PROJECT
+This project evaluates three learning strategies of regression to predict the university rate given the students' profile; namely, linear regression, random forest, and decision tree model. This project evaluates, the best model in terms of the highest accuracy rate and the least error. The linear regression model shows the most accurate prediction, and hence, I suggest employing this model to predict the future applicant's university chance of admission.
